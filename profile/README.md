@@ -40,3 +40,9 @@ Modifications to fit our experiment
 
 - [style_loss_calculation](https://github.com/IGISTDM/style_loss_calculation)
   - Using clip score and gram matrix to calculate style loss
+
+## Team members
+
+1. [LouieLK](https://github.com/LouieLK)
+2. [Argentum11](https://github.com/Argentum11)
+3. [cseslowpoke](https://github.com/cseslowpoke)
